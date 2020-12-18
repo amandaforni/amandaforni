@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/amandaforni/amandaforni/main/githubcover.jpg "Header")](http://www.amandaforni.co.uk)
+[![Header](https://raw.githubusercontent.com/amandaforni/amandaforni/main/githubcover.png "Header")](http://www.amandaforni.co.uk)
 
 **About**
 
