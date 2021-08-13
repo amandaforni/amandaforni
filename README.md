@@ -8,16 +8,12 @@ I am currently on an apprenticeship with Imagin3d, training with CodeNation. My 
 
 ![](https://img.shields.io/badge/OS-Linux-lightgrey)
 ![](https://img.shields.io/badge/OS-Windows-lightgrey)
-![](https://img.shields.io/badge/learning-HTML-orange)
-![](https://img.shields.io/badge/learning-CSS-orange)
-![](https://img.shields.io/badge/learning-Javascript-orange)
-![](https://img.shields.io/badge/learning-jQuery-orange)
-![](https://img.shields.io/badge/learning-React-orange)
-![](https://img.shields.io/badge/learning-Node.js-orange)
-![](https://img.shields.io/badge/learning-Express-orange)
+![](https://img.shields.io/badge/HTML-orange)
+![](https://img.shields.io/badge/CSS-orange)
+![](https://img.shields.io/badge/Javascript-orange)
+![](https://img.shields.io/badge/jQuery-orange)
+![](https://img.shields.io/badge/Node.js-orange)
 ![](https://img.shields.io/badge/learning-Python-orange)
-![](https://img.shields.io/badge/learning-MySQL-green)
-![](https://img.shields.io/badge/learning-MongoDB-green)
 ![](https://img.shields.io/badge/learning-AWS-blueviolent)
 
 *Find me on* [![Twitter][1.1]][1] *or on* [![LinkedIn][2.1]][2]
