@@ -2,7 +2,7 @@
 
 **About**
 
-I am currently on an apprenticeship as a Junior Software Developer with PixelMax, working Agile. My first draw to software was how it could help organize and visualize complex environmental data. My current work focuses mostly on front-end web development, while dabbling in Python.
+I am currently on an apprenticeship as a Junior Software Developer with PixelMax. My first draw to software was how it could help organize and visualize complex environmental data. My current work focuses mostly on front-end web development, while dabbling in Python.
 
 **Tech and Tools**
 
