@@ -2,7 +2,7 @@
 
 **About**
 
-I am currently on an apprenticeship with Imagin3d, training with CodeNation. My first draw to software was how it could help organize and visualize complex environmental data. Working through the CodeNation course, I have solidified my love of the visual side of tech. I look forward to developing as a UX/UI professional and achieving a deeper understanding of forward-thinking accessible and attractive design. 
+I am currently on an apprenticeship as a Junior Software Developer with PixelMax, working Agile. My first draw to software was how it could help organize and visualize complex environmental data. My current work focuses mostly on front-end web development, while dabbling in Python.
 
 **Tech and Tools**
 
