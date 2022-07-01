@@ -12,9 +12,8 @@
 ![](https://img.shields.io/badge/learning-Python-orange)
 ![](https://img.shields.io/badge/learning-AWS-blueviolent)
 
-*Find me on* [![Twitter][1.1]][1] *or on* [![LinkedIn][2.1]][2]
+*Find me on* [![LinkedIn][2.1]][2]
 
-[1.1]: http://i.imgur.com/tXSoThF.png 
 [2.1]: https://raw.githubusercontent.com/amandaforni/amandaforni/main/linkedin.png
 
 [1]: https://twitter.com/amandaforni
