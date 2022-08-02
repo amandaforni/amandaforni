@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/amandaforni/amandaforni/main/githubImage.png "Header")](http://www.amandaforni.co.uk)
-
 **Tech and Tools**
 
 ![](https://img.shields.io/badge/OS-Linux-lightgrey)
