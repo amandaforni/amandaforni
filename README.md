@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/jQuery-orange)
 ![](https://img.shields.io/badge/Node.js-orange)
 ![](https://img.shields.io/badge/learning-Python-orange)
+![](https://img.shields.io/badge/learning-React-orange)
+![](https://img.shields.io/badge/learning-Webpack-orange)
 ![](https://img.shields.io/badge/learning-AWS-blueviolent)
 
 *Find me on* [![LinkedIn][2.1]][2]
